@@ -1,4 +1,4 @@
-
+import imghdr
 import telegram
 from telegram.ext import Updater, CommandHandler
 import datetime

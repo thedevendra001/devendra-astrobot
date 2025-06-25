@@ -33,6 +33,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-git add render.yaml
-git commit -m "Add render.yaml with python 3.10.13 config"
-git push origin main
